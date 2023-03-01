@@ -1,0 +1,85 @@
+
+
+body { background-color: black;
+
+
+
+
+}
+
+
+.whoareyou {
+    
+    height: auto;
+    position: relative;
+    align-content: center;
+    margin-left: 25%;
+    margin-right: 75%;
+    width: 25%;
+    margin-top: 20%;
+
+}
+/*
+.yes {
+    position: relative;
+    height: auto;
+    position: relative;
+    align-content: center;
+    margin-left: 0%;
+    margin-right: 75%;
+    width: 25%;
+    margin-top: 15%;
+}*/
+
+.no {
+    position: relative;
+    height: auto;
+    align-content: center;
+    margin-left: 15%;
+    margin-right: 75%;
+    width: 25%;
+    margin-top: 5%;
+
+}
+
+
+p { color: blue;
+    font-family: "new-spirit", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+div.gallery {
+    margin: 5px;
+    float: left;
+    width: 400px;
+    position: relative;
+    margin-top: 20%;
+    margin-left: 3%;
+    
+  }
+  
+  div.gallery:hover {
+    border: 5px solid rgb(0, 22, 111);
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    position: relative;
+    
+  }
+  
+
+
+
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }  
+
+
